@@ -49,7 +49,7 @@ app.add_middleware(
 # --------------------------------------------------
 # MODEL
 # --------------------------------------------------
-pipeline = joblib.load("model/mental_health_model.pkl")
+pipeline = joblib.load("Model/mental_health_model.pkl")
 
 LABELS = {
     0: "Anxiety",

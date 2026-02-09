@@ -6,7 +6,7 @@ The system fetches real user comments, classifies them using a machine learning 
 ---
 
 ## 🚀 Live Demo
-- 🌐 **Live App (Render):** [youtube-comments-sentiment-analysis.onrender.com](https://youtube-comments-sentiment-analysis.onrender.com)
+- 🌐 **Live App (Render):** [youtube-comments-sentiment-analysis-ai.onrender.com](https://youtube-comments-sentiment-analysis-ai.onrender.com)
 
 - 🐳 **Docker Image:** [mohdmusheer/youtube-comments-sentiment-analysis](https://hub.docker.com/r/mohdmusheer/youtube-comments-sentiment-analysis)
 
